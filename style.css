@@ -1,0 +1,113 @@
+body{
+background-image: url(heatlh.jpg);
+background-size: cover;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+margin: 0;
+}
+.header{
+   display: flex;
+   justify-content: center;
+   min-height: 100px;
+   max-height: 400px;
+   margin-bottom: 0px;
+   align-items: center;
+}
+ul{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+li{
+   display: block;
+   padding: 0 20px;
+   background-color:;
+   font-size: 25px;
+   font-family: sans-serif;
+   text-transform: uppercase;
+   transition: .5s;
+   font-size: 25px;
+
+}
+li a{
+   text-decoration: none;
+   color: azure;
+   transition: .5s;
+   padding: 10px;
+}
+.btn {
+   font-size: 20px;
+   font-family: monospace;
+   color: #fff;
+   background: linear-gradient(to left,#3c1053,#f5af19,#f12711);
+   text-decoration: none;
+   padding: 20px 70px;
+   border-radius: 10px;
+   background-size: 200%;
+   transition: .5s;
+
+}
+.btn:hover{
+   background-position: right;
+}
+.btn2 {
+   font-size: 20px;
+   font-family: monospace;
+   color: #fff;
+   background: linear-gradient(to left,#ad5389,#3c1053,#ad5389);
+   text-decoration: none;
+   padding: 20px 70px;
+   border-radius: 10px;
+
+   background-size: 200%;
+   transition: .5s;
+}
+.btn2:hover{
+   background-position: right;
+}
+.btn3 {
+   font-size: 20px;
+   font-family: monospace;
+   color: #fff;
+   background: linear-gradient(to left,#E0EAFC,#000000,#E0EAFC);
+   text-decoration: none;
+   padding: 20px 70px;
+   border-radius: 10px;
+
+   background-size: 200%;
+   transition: .5s;
+}
+.btn3:hover{
+   background-position: right;
+}
+.btn4 {
+   font-size: 20px;
+   font-family: monospace;
+   color: #fff;
+   background: linear-gradient(to left,#A770EF,#CF8BF3,#FDB99B);
+   text-decoration: none;
+   padding: 20px 70px;
+   border-radius: 10px;
+
+   background-size: 200%;
+   transition: .5s;
+}
+.btn4:hover{
+   background-position: right;
+}
+.btn5 {
+   font-size: 20px;
+   font-family: monospace;
+   color: #fff;
+   background: linear-gradient(to left,#1D4350,);
+   text-decoration: none;
+   padding: 20px 70px;
+   border-radius: 10px;
+
+   background-size: 200%;
+   transition: .5s;
+}
+.btn5:hover{
+   background-position: right;
+}
